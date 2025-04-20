@@ -50,4 +50,13 @@ SHA‑256 hashes sit in document footers; all links were verified **20 Apr 202
 2. **Commit message**: title · author(s) · SHA‑256 · licence.  
 3. **Update Folder Map** if you create a new top‑level directory.  
 
+---
+
+## 6 Licence
+Unless stated otherwise, all files in this directory are released under the
+**Creative Commons Attribution 4.0 International (CC‑BY‑4.0)** licence.  
+You may copy, adapt and redistribute the material for any purpose,
+provided that appropriate credit is given and changes are indicated.
+
+
 _“Strong in Diversity.”_
