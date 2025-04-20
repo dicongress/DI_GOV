@@ -1,8 +1,0 @@
-# Ignore all files in the repository
-**
-
-# Exception: do not ignore folders (only follow the folder structure)
-!*/
-
-# Exception: track files in the Shared_Resources folder
-!DI_GOV/Recognized_Institutions/DI_Archives/Shared_Resources/**
