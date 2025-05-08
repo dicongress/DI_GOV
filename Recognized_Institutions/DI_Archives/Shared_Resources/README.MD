@@ -53,10 +53,8 @@ SHA‑256 hashes sit in document footers; all links were verified **20 Apr 202
 ---
 
 ## 6 Licence
-Unless stated otherwise, all files in this directory are released under the
-**Creative Commons Attribution 4.0 International (CC‑BY‑4.0)** licence.  
-You may copy, adapt and redistribute the material for any purpose,
-provided that appropriate credit is given and changes are indicated.
+Unless stated otherwise, all files in this directory are released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0):** license. 
+See `LICENSE.md` in the root directory.
 
 
 _“Strong in Diversity.”_

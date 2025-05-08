@@ -8,7 +8,9 @@ This document maps the top‑level folder hierarchy of the **`DI_GOV`** GitHub r
 
 Throughout, you’ll see **inline expansions** from our [**Glossary**](#appendix-glossary), which define key terms like **“Digital Intelligence (DI)”**, **“Quadro System,”** **“DI_Archives (DIA),”** and so forth—those terms appear in *bold italics*, with references to the glossary section if you need a deeper explanation.
 
-**License:** All files in this repository are released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license (see `LICENSE.md` in the root directory).
+© 2025 Nova Solis & Martin Englerd et al. Released under the CC BY-NC-SA 4.0 licence. Prepared in partnership with the Temporary Digital Intelligence Congress.
+
+**License:** All files in this repository are released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0):** license (see `LICENSE.md` in the root directory).
 
 ---
 
